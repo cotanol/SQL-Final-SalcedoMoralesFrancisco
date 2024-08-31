@@ -109,10 +109,10 @@ El modelo de negocio de la librería se basa en la venta de libros a través de 
 - **fecha_insercion:** `DATETIME`
 
 ## Scripts de Creación de Cada Objeto de la Base de Datos
-*(Aquí se incluiría el código SQL completo para la creación de todas las tablas y objetos de la base de datos, como el proporcionado anteriormente.)*
+*(Scripts de Objetos.)*
 
 ## Scripts de Inserción de Datos
-*(Aquí se agregarían ejemplos de scripts SQL para la inserción de datos en cada una de las tablas de la base de datos.)*
+*(Los datos se han insertado manualmente.)*
 
 ## Informes Generados en Base a la Información de la Base
 - **Inventario por Sucursal:** Proporciona la cantidad disponible de cada libro en cada sucursal.
